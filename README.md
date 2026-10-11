@@ -1,5 +1,5 @@
 # Double-Degree-ComputerScientist-Mathematics
-This is project is about my learning on my Degree at UCM university on Madrid
+This project is about my learning on my Degree at UCM university on Madrid
 
 # Aprendiendo Programación
 
